@@ -13,7 +13,7 @@ Users can select any color using a color picker and instantly see its **hex code
 - ⚡ Real-time updates using JavaScript events
 
 ---
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - **HTML5** – Structure
 - **CSS3** – Styling & Layout
 - **JavaScript** – Event handling & DOM manipulation
