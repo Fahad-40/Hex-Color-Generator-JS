@@ -20,7 +20,7 @@ Users can select any color using a color picker and instantly see its **hex code
 
 ---
 
-Future Improvements
+## 🚀 Future Improvements
 
 Copy hex code button
 
