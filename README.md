@@ -22,12 +22,8 @@ Users can select any color using a color picker and instantly see its **hex code
 
 ## 🚀 Future Improvements
 
-Copy hex code button
-
-RGB / HSL conversion
-
-Save favorite colors
-
-Gradient generator
-
-Dark / Light mode toggle
+- Copy hex code button
+- RGB / HSL conversion
+- Save favorite colors
+- Gradient generator
+- Dark / Light mode toggle
