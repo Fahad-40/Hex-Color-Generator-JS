@@ -19,3 +19,15 @@ Users can select any color using a color picker and instantly see its **hex code
 - **JavaScript** – Event handling & DOM manipulation
 
 ---
+
+Future Improvements
+
+Copy hex code button
+
+RGB / HSL conversion
+
+Save favorite colors
+
+Gradient generator
+
+Dark / Light mode toggle
